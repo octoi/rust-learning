@@ -14,3 +14,6 @@ Rewriting existing tools in Rust can provide a great baseline to get started:
 - https://doc.rust-lang.org/book/ch12-01-accepting-command-line-arguments.html
 - https://mkaz.blog/working-with-rust/vectors/
 - https://doc.rust-lang.org/book/ch12-02-reading-a-file.html
+- https://doc.rust-lang.org/std/env/fn.current_dir.html
+- https://stackoverflow.com/questions/37388107/how-to-convert-the-pathbuf-to-string
+- https://natclark.com/tutorials/rust-list-all-files/
